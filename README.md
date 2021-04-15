@@ -1,4 +1,4 @@
-Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am <b>Fahim UL Haque</b>!
+<h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am <b>Fahim UL Haque</b>!</h1>
 
 -------
 🤝 Socials
@@ -38,6 +38,7 @@ Bots
 2. <a href="https://t.me/pinttingbot">Crypto Price Alert Bot</a>
 3. <a href="https://t.me/tvseriesalertbot">Tv Series Alert Bot</a>
 --
+
 Websites
 --
 1. Portfolio
