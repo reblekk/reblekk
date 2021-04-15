@@ -30,6 +30,17 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="Vuejs Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux Logo" width="50" height="50"/>  
 
 -------
-<img src="https://svgshare.com/i/WEF.svg" alt="Vuejs Logo" width="10" height="10"/> Projects
+Projects
 --
-
+Bots
+--
+1. <a href="https://t.me/sonofarobot">Multipurpose Telegram Bot</a>
+2. <a href="https://t.me/pinttingbot">Crypto Price Alert Bot</a>
+3. <a href="https://t.me/tvseriesalertbot">Tv Series Alert Bot</a>
+--
+Websites
+--
+1. Portfolio
+2. Single Page Portfolio 
+3. NSFW Dynamic Photo Scrapping From Reddit Website (18+)
+4. 
