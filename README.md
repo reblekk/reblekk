@@ -37,11 +37,12 @@ Bots
 1. <a href="https://t.me/sonofarobot">Multipurpose Telegram Bot</a>
 2. <a href="https://t.me/pinttingbot">Crypto Price Alert Bot</a>
 3. <a href="https://t.me/tvseriesalertbot">Tv Series Alert Bot</a>
---
+
 
 Websites
 --
-1. Portfolio
-2. Single Page Portfolio 
-3. NSFW Dynamic Photo Scrapping From Reddit Website (18+)
-4. 
+1. Portfolio <a href="http://fahimulhaque.byethost17.com/">Link</a>
+2. Single Page Portfolio <a href="https://transformed-destroy.000webhostapp.com/">Link</a>
+3. NSFW Dynamic Photo Scrapping From Reddit Website (18+) <a href="http://nsfw.byethost10.com/">Link</a>
+4. Nature Photo Gallery Website. <a href="#">Link</a>
+5. Excel to Website Data Automation. <a href="http://fahimulhaque.byethost17.com/Tracking/tv_series.html">Link</a>
