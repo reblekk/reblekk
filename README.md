@@ -1,4 +1,4 @@
-Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Fahim UL Haque!
+Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am <b>Fahim UL Haque</b>!
 
 -------
 🤝 Socials
