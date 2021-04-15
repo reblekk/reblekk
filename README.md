@@ -20,7 +20,7 @@
 📊 My Github Stats
 --
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reblekk&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reblekk&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Fahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=reblekk&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -49,4 +49,4 @@ Websites
 
 Design(Illustrations/3D)
 --
-1.<a href="https://dribbble.com/fahimulhaque">Dribbble</a>
+1. <a href="https://dribbble.com/fahimulhaque">Dribbble</a>
