@@ -29,4 +29,7 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 --
 <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="Vuejs Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux Logo" width="50" height="50"/>  
 
+-------
+<img src="https://svgshare.com/i/WEF.svg" alt="Vuejs Logo" width="10" height="10"/> Projects
+--
 
