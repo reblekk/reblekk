@@ -49,5 +49,6 @@ Design(Illustrations/3D)
 📊 My Github Stats
 --
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reblekk&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Fahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=reblekk&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reblekk&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Fahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=reblekk&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
