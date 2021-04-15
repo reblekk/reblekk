@@ -1,7 +1,7 @@
 Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Fahim UL Haque!
 
 -------
-Socials
+🤝 Socials
 <div style="padding: 20px">
 <a href="https://t.me/fahimlawls">
 <img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" alt="CSS Logo" width="40" height="40"/>
