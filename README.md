@@ -24,3 +24,9 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 
 [![Fahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=reblekk&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+-------
+📚Currently Learning 
+--
+<img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="Vuejs Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux Logo" width="50" height="50"/>  
+
+
