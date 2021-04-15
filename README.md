@@ -3,10 +3,10 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 -------
 🤝 Socials
 
-<a href="https://t.me/fahimlawls"><img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" alt="Telegram logo" width="40" height="40"/></a>
-<a href="https://www.linkedin.com/in/fahim-ul-haque/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LInkedin Logo" width="40" height="40"/></a>
-<a href="https://dribbble.com/fahimulhaque"><img src="https://cdn.worldvectorlogo.com/logos/dribbble-pink.svg" alt="Dribbble Logo" width="40" height="40"/></a>
-<a href="http://fahimulhaque.byethost17.com/"><img src="https://i.nuuls.com/ReaCZ.png" alt="Website Logo" width="40" height="40"/></a>
+<a href="https://t.me/fahimlawls"><img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" alt="Telegram logo" width="40" height="40"/></a> &ensp;
+<a href="https://www.linkedin.com/in/fahim-ul-haque/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LInkedin Logo" width="40" height="40"/></a> &ensp;
+<a href="https://dribbble.com/fahimulhaque"><img src="https://cdn.worldvectorlogo.com/logos/dribbble-pink.svg" alt="Dribbble Logo" width="40" height="40"/></a> &ensp;
+<a href="http://fahimulhaque.byethost17.com/"><img src="https://i.nuuls.com/ReaCZ.png" alt="Website Logo" width="40" height="40"/></a> &ensp;
 
 
 -------
